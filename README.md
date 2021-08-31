@@ -7,3 +7,4 @@
 - 📝 绘画也是人生爱好之一
 - 📖 希望自己能多读读书
 - ⛺ 去不同的地方，认识更多朋友
+- :computer: 欢饮访问我的[个人博客](djw-worldvisitor.netfily.app)
