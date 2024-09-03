@@ -2,9 +2,9 @@
 
 ## Hello world ! 👋
 
-- 🧑 `Tickdack`是个普通的打工人 
-- 🐟 是个喜欢摸鱼的人
-- 📝 绘画也是人生爱好之一
-- 📖 希望自己能多读读书
-- ⛺ 去不同的地方，认识更多朋友
-- :computer: 欢迎访问我的[个人博客](https://tickdack.github.io/)
+- 🧑 Tickdack, a humble developer among the code-weavers.
+- 🐟 The harmony of work and rest, a rhythm of efficiency.
+- 📝 Painting, a canvas of passions, weaving hues into hobbies.
+- 📖 Books, the steadfast stepping stones, guiding my grand journey.
+- ⛺ Embark on a journey to myriad locales, befriending souls from afar.
+- :computer: Welcome to my[blog](https://tickdack.github.io/)
