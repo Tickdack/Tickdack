@@ -8,4 +8,3 @@
 - 📖 Books, guiding my journey.
 - ⛺ Explore diverse lands, meet souls afar.
 - 💻 Welcome to my [blog](https://tickdack.github.io/).
-- 
