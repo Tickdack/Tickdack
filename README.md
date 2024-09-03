@@ -2,9 +2,10 @@
 
 ## Hello world ! 👋
 
-- 🧑 Tickdack, a humble developer among the code-weavers.
-- 🐟 The harmony of work and rest, a rhythm of efficiency.
-- 📝 Painting, a canvas of passions, weaving hues into hobbies.
-- 📖 Books, the steadfast stepping stones, guiding my grand journey.
-- ⛺ Embark on a journey to myriad locales, befriending souls from afar.
-- :computer: Welcome to my [blog](https://tickdack.github.io/)
+- 🧑 Tickdack, a humble coder.
+- 🐟 Work-rest balance, the key to efficiency.
+- 📝 Painting, passions woven into hues.
+- 📖 Books, guiding my journey.
+- ⛺ Explore diverse lands, meet souls afar.
+- 💻 Welcome to my [blog](https://tickdack.github.io/).
+- 
