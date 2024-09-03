@@ -7,4 +7,4 @@
 - 📝 Painting, a canvas of passions, weaving hues into hobbies.
 - 📖 Books, the steadfast stepping stones, guiding my grand journey.
 - ⛺ Embark on a journey to myriad locales, befriending souls from afar.
-- :computer: Welcome to my[blog](https://tickdack.github.io/)
+- :computer: Welcome to my [blog](https://tickdack.github.io/)
